@@ -1,5 +1,5 @@
 
-# Image Search Web App
+# Pic Quest
 
 Developed a dynamic image search web application using HTML, CSS, and JavaScript. The app allows users to search and discover images through the Unsplash API, featuring a user-friendly interface with a dark mode option.
 
@@ -11,7 +11,7 @@ Developed a dynamic image search web application using HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot_1.png)
 
 ## Getting Started
 
